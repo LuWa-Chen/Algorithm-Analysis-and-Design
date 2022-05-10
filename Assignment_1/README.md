@@ -25,7 +25,7 @@
 ### ⑥输出结果：
 判断，若count[amount]仍为0，表示该金额不存在合法的组合方案，输出-1；否则输出count[amount]即可。至此程序结束。
 
-*注：所需库函数有：<iostream>、<vector>、<algorithm>*
+*注：所需库函数有：iostream、vector、algorithm*
 
 ## 算法复杂度分析：
 假设用户输入的硬币面值有m种，目标金额为n元：
